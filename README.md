@@ -27,3 +27,5 @@ https://www.topzenith.com/2017/07/top-10-best-sql-video-tutorials.html
 https://academy.vertabelo.com/blog/18-best-online-resources-for-learning-sql-and-database-concepts/
 
 http://radacad.com/basics-of-m-power-query-formula-language
+
+https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/
